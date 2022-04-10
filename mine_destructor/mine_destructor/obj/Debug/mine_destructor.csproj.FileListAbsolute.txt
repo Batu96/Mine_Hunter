@@ -1,0 +1,7 @@
+C:\Users\Batuhan\Desktop\IT\c#_examples\mine_destructor_game\mine_destructor\mine_destructor\bin\Debug\mine_destructor.exe.config
+C:\Users\Batuhan\Desktop\IT\c#_examples\mine_destructor_game\mine_destructor\mine_destructor\bin\Debug\mine_destructor.exe
+C:\Users\Batuhan\Desktop\IT\c#_examples\mine_destructor_game\mine_destructor\mine_destructor\bin\Debug\mine_destructor.pdb
+C:\Users\Batuhan\Desktop\IT\c#_examples\mine_destructor_game\mine_destructor\mine_destructor\obj\Debug\mine_destructor.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\IT\c#_examples\mine_destructor_game\mine_destructor\mine_destructor\obj\Debug\mine_destructor.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\IT\c#_examples\mine_destructor_game\mine_destructor\mine_destructor\obj\Debug\mine_destructor.exe
+C:\Users\Batuhan\Desktop\IT\c#_examples\mine_destructor_game\mine_destructor\mine_destructor\obj\Debug\mine_destructor.pdb
